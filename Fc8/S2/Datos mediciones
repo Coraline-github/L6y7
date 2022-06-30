@@ -1,0 +1,5 @@
+Las mediciones S2 fueron realizadas todas a una altura fija de 45cm
+
+las humedades medidas con el sensor de humedad de arduino son:
+H=[33.8, 35.9, 38.3, 38.4, 47.0, 44.2, 50.0, 58.8, 65.2, 70.2, 73.6, 77.6, 79.8]
+
